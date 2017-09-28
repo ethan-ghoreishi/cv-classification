@@ -3,3 +3,6 @@
 /include
 /share
 pip-selfcheck.json
+data.infer
+enwiki_dbow.tgz
+/enwiki_dbow
