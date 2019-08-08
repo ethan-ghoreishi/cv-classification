@@ -1,1 +1,1 @@
-# cv-classification
+# CV Classification
